@@ -3,7 +3,9 @@
 /*When doing these tasks, we recommend using console.log to test the output of your code to make sure it works correctly.*/
 
 ///////////////Menu Items (MVP)///////////////////
-const latte = {name: "Cafe Latte", price: 4, category: "Drinks"};
+const latte = {name: "Cafe Latte",
+ price: 4, 
+ category: "Drinks"};
 const breakfastBurrito = {name: "Breakfast Burrito", price: 16, category:"Breakfast"};
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1a: Make a function that builds objects🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -16,7 +18,17 @@ The function should:
 */
 
 function createMenuItem(/*Your code here*/){
-    /*Your code here*/
+   Const tacos = {
+    name:"Street tacos",
+    price: 3,
+    category: lunch,
+}
+
+  Const tea = {
+    name: "Green tea"
+    price: 2,
+    category: "Drinks"
+  }
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
